@@ -104,14 +104,14 @@ enable = true
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "A resource portal to Explore Science for students of class VI to Class VII !"
+title = "A resource portal to Explore Science for CBSE Students!"
 image = "images/banner/illustration.svg"
 
 
 ######################## call to action ###############################
 [params.cta]
 enable = true
-image = "images/muscot.png"
+image = "images/muscot.svg"
 title = "Get Access To Our Resources!"
 description = "Learn with our unlimited presentations, mindmaps and other resouces today."
 [params.cta.button]
