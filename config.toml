@@ -40,14 +40,20 @@ link = "plugins/search/search.js"
 
 # main menu
 [[menu.main]]
-URL = "contact"
-name = "Contact"
+URL = "resoucehub"
+name = "Resources"
 weight = 1
 
 [[menu.main]]
 URL = "author/john-doe"
 name = "Author"
 weight = 2
+
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 3
+
 
 # footer menu
 [[menu.footer]]
@@ -59,6 +65,11 @@ weight = 1
 URL = "author"
 name = "Author"
 weight = 2
+
+[[menu.footer]]
+URL = "privacy"
+name = "Privacy"
+weight = 3
 
 
 ######################### Default Parameters ###########################
