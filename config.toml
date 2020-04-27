@@ -104,7 +104,7 @@ enable = true
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "A resource portal for students from class VI to Class VII to Explore Science !"
+title = "A resource portal to Explore Science for students of class VI to Class VII !"
 image = "images/banner/illustration.svg"
 
 
