@@ -67,7 +67,7 @@ name = "Author"
 weight = 2
 
 [[menu.footer]]
-URL = "privacy"
+URL = "privacy.md"
 name = "Privacy"
 weight = 3
 
@@ -81,7 +81,7 @@ home = "Home"
 logo = "images/logo.png"
 # meta data
 author = "Rajan Kuttamath"
-description = "Junior Science Station is an portal for Class 6 to Class 8 CBSE students"
+description = "Junior Science Station is an portal for Class 6 to Class 8 CBSE students to access easy resouces and solutions"
 # google tag manager
 google_tag_manager = "" # your id
 # google analitycs ID
@@ -113,10 +113,10 @@ image = "images/banner/illustration.svg"
 enable = true
 image = "images/muscot.svg"
 title = "Get Access To Our Resources!"
-description = "Learn with our unlimited presentations, mindmaps and other resouces today."
+description = "Learn with our unlimited presentations, concept maps, mindmaps, assignments,experiments and other resouces today itself."
 [params.cta.button]
 enable = true
-label = "Click Here"
+label = "Click Here !"
 link = "#"
 
 
