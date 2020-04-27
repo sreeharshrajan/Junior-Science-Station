@@ -1,0 +1,118 @@
+############################ Default configuration #########################
+baseURL = "/"
+languageCode = "en-us"
+# site title 
+title = "Junior Science Station"
+# theme
+theme = "northendlab-hugo"
+# post pagination
+paginate = "5"
+# post excerpt
+summaryLength = "15"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+
+[outputs]
+home = ["HTML", "AMP", "RSS", "JSON"]
+
+########################## Plugings ######################################
+
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# js plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+
+
+########################### Navigation ###################################
+
+# main menu
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 1
+
+[[menu.main]]
+URL = "author/john-doe"
+name = "Author"
+weight = 2
+
+# footer menu
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 1
+
+[[menu.footer]]
+URL = "author"
+name = "Author"
+weight = 2
+
+
+######################### Default Parameters ###########################
+
+[params]
+# home
+home = "Home"
+# logo
+logo = "images/logo.png"
+# meta data
+author = "Rajan Kuttamath"
+description = "Junior Science Station is an portal for Class 6 to Class 8 CBSE students"
+# google tag manager
+google_tag_manager = "" # your id
+# google analitycs ID
+google_analitycs_id = "" # your id
+# contact form action
+contact_form_action = "#" # contact form works with : https://formspree.io
+# copyright
+copyright = "Made With 💗 and ☕ By [Sreeharsh Rajan](https://www.instagram.com/sreeharshrajan) | &copy; 2020 All Rights Reserved"
+
+# preloader
+[params.preloader]
+enable = true
+preloader = "" # use png, jpg, svg or gif format
+
+# search
+[params.search]
+enable = true
+
+
+####################### banner #######################################
+[params.banner]
+bgImage = "images/banner/banner-bg.svg"
+title = "A resource portal for students from class VI to Class VII to Explore Science !"
+image = "images/banner/illustration.svg"
+
+
+######################## call to action ###############################
+[params.cta]
+enable = true
+image = "images/muscot.png"
+title = "Get Access To Our Resources!"
+description = "Learn with our unlimited presentations, mindmaps and other resouces today."
+[params.cta.button]
+enable = true
+label = "Click Here"
+link = "#"
+
+
+############################## Social Site ##########################
+[[params.social]]
+icon = "ti-facebook"
+link = "#"
+[[params.social]]
+icon = "ti-instagram"
+link = "#"
