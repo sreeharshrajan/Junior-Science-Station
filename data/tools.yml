@@ -5,23 +5,8 @@ tools:
   # tool loop in tool category
   - name: Chapter 1 - Nutrition In Plants
     image: "/images/tools/Nutrition-in-Plants.jpg"
-    link: https://drive.google.com/open?id=1iLNkxgCa_g7oi_zs_ixFIt0MOo30M41q-BZSRvEmhNQ
-  # tool loop in tool category
-  - name: Atom
-    image: "/images/tools/Atom.png"
-    link: https://atom.io/
-  # tool loop in tool category
-  - name: Notepad ++
-    image: "/images/tools/Notepad.png"
-    link: https://notepad-plus-plus.org/
-  # tool loop in tool category
-  - name: Sublime Text
-    image: "/images/tools/sublime.png"
-    link: https://www.sublimetext.com/
-  # tool loop in tool category
-  - name: Visual Studio Code
-    image: "/images/tools/vs-code.png"
-    link: https://code.visualstudio.com/
+    link: https://docs.google.com/presentation/d/e/2PACX-1vTApZL2L3Jj2WWOUgukw7S68KWVi-t9IWGE0upp2cA27K_-R3RUPKu5cszAm9JVtWreNUG9QgTuoGql/pub?start=true&loop=true&delayms=3000
+
 
 
 # tool category
@@ -55,7 +40,7 @@ tools:
   # tool loop in tool category
   - name: Chapter 1 - Nutrition In Plants
     image: "/images/tools/Nutrition-in-Plants.jpg"
-    link: https://drive.google.com/open?id=1iLNkxgCa_g7oi_zs_ixFIt0MOo30M41q-BZSRvEmhNQ
+    link: https://docs.google.com/presentation/d/e/2PACX-1vTApZL2L3Jj2WWOUgukw7S68KWVi-t9IWGE0upp2cA27K_-R3RUPKu5cszAm9JVtWreNUG9QgTuoGql/pub?start=true&loop=true&delayms=10000
   # tool loop in tool category
   - name: Buffer
     image: "/images/tools/Buffer.jpg"
