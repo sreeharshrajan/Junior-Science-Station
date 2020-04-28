@@ -1,11 +1,11 @@
 tools:
 # tool category
-- title: Dev Tools
+- title: Class VI
   tool:
   # tool loop in tool category
-  - name: Git
-    image: "/images/tools/Git.png"
-    link: https://git-scm.com/
+  - name: Chapter 1 - Nutrition In Plants
+    image: "/images/tools/Nutrition-in-Plants.jpg"
+    link: https://drive.google.com/open?id=1iLNkxgCa_g7oi_zs_ixFIt0MOo30M41q-BZSRvEmhNQ
   # tool loop in tool category
   - name: Atom
     image: "/images/tools/Atom.png"
@@ -25,7 +25,7 @@ tools:
 
 
 # tool category
-- title: Design Tools
+- title: Class VII
   tool:
   # tool loop in tool category
   - name: Sketch
@@ -50,12 +50,12 @@ tools:
 
 
 # tool category
-- title: Digital Marketing Tools
+- title: Class VIII
   tool:
   # tool loop in tool category
-  - name: Mailchimp
-    image: "/images/tools/MailChimp.jpg"
-    link: https://mailchimp.com/
+  - name: Chapter 1 - Nutrition In Plants
+    image: "/images/tools/Nutrition-in-Plants.jpg"
+    link: https://drive.google.com/open?id=1iLNkxgCa_g7oi_zs_ixFIt0MOo30M41q-BZSRvEmhNQ
   # tool loop in tool category
   - name: Buffer
     image: "/images/tools/Buffer.jpg"
