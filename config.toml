@@ -40,7 +40,7 @@ link = "plugins/search/search.js"
 
 # main menu
 [[menu.main]]
-URL = "resoucehub"
+URL = "tools"
 name = "Resources"
 weight = 1
 
@@ -62,12 +62,12 @@ name = "Contact"
 weight = 1
 
 [[menu.footer]]
-URL = "author"
+URL = "author/john-doe"
 name = "Author"
 weight = 2
 
 [[menu.footer]]
-URL = "privacy.md"
+URL = "privacy"
 name = "Privacy"
 weight = 3
 
@@ -90,6 +90,7 @@ google_analitycs_id = "" # your id
 contact_form_action = "#" # contact form works with : https://formspree.io
 # copyright
 copyright = "Made With 💗 and ☕ By [Sreeharsh Rajan](https://www.instagram.com/sreeharshrajan) | &copy; 2020 All Rights Reserved"
+
 
 # preloader
 [params.preloader]
