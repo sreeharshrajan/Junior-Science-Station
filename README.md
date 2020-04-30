@@ -3,7 +3,7 @@
 While the COVID Panedemic has been spreading across the world, e-learning intiatives made an impressive way ahead causing students to learning through digital assets.
 Junior Science Station is more such an effort to make learning more open-source and easy. 
 
-The website is developed using [Hugo](https://www.hugo.io) and deployed on [Netlify](https://netlify.com),all the contents of the portal belongs to [Rajan KM](https://www.faccebook.com/rajankuttamath),science teacher who's working in a prestigious CBSE institution for more than past 25 years.
+The website is developed using [Hugo](https://www.hugo.io) and deployed on [Netlify](https://netlify.com),all the contents of the portal belongs to [Rajan KM](https://www.faccebook.com/rajankuttamath),science teacher who's working in a prestigious CBSE institution for more than past 25 years. [Northendlab Hugo](https://github.com/themefisher/northendlab-hugo.git)  theme is used for this project.
 
 **The portal includes following resouces:**
 1. Powerpoint Presentations
