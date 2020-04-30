@@ -99,7 +99,7 @@ preloader = "" # use png, jpg, svg or gif format
 
 # search
 [params.search]
-enable = true
+enable = false
 
 
 ####################### banner #######################################
@@ -124,7 +124,10 @@ link = "#"
 ############################## Social Site ##########################
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com/rajankuttamath"
 [[params.social]]
 icon = "ti-instagram"
-link = "#"
+link = "https://www.instagram.com/rajankuttamath"
+[[params.social]]
+icon = "ti-github"
+link = "https://www.github.com/sreeharshrajan/junior-science-station"
