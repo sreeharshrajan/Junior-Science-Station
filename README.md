@@ -16,4 +16,4 @@ The website is developed using [Hugo](https://www.hugo.io) and deployed on [Netl
 
 > Learn For Free with Junior Science Station!
 
-©  [@sreeharshrajan](https://www.twitter.com/SreeharshR)
+©  [Sreeharsh Rajan](https://www.twitter.com/SreeharshR)
