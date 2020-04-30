@@ -6,8 +6,7 @@ tools:
   - name: Chapter 1 - Nutrition In Plants
     image: "/images/tools/Nutrition-in-Plants.jpg"
     link: https://docs.google.com/presentation/d/e/2PACX-1vTApZL2L3Jj2WWOUgukw7S68KWVi-t9IWGE0upp2cA27K_-R3RUPKu5cszAm9JVtWreNUG9QgTuoGql/pub?start=true&loop=true&delayms=3000
-
-
+  
 
 # tool category
 - title: Class VII
@@ -42,26 +41,27 @@ tools:
     image: "/images/tools/Nutrition-in-Plants.jpg"
     link: https://docs.google.com/presentation/d/e/2PACX-1vTApZL2L3Jj2WWOUgukw7S68KWVi-t9IWGE0upp2cA27K_-R3RUPKu5cszAm9JVtWreNUG9QgTuoGql/pub?start=true&loop=true&delayms=10000
   # tool loop in tool category
-  - name: Buffer
+  - name: Crop Production and Management
     image: "/images/tools/Buffer.jpg"
-    link: https://buffer.com/
+    link: https://docs.google.com/presentation/d/e/2PACX-1vT8tEzJiu1kjXehbwapBKNDo8vtZVzvPZPRK-Ysa2ZIq7sPTaAedUFkWOiB03-0JA/pub?start=true&loop=true&delayms=10000
   # tool loop in tool category
-  - name: Bitly Link
+  - name: Synthetic Fibres & PLastics 
     image: "/images/tools/Bitly.jpg"
-    link: https://bitly.com/
+    link: https://docs.google.com/presentation/d/e/2PACX-1vRePqwy9m0pZX_LVeOVSi8mAnDn8mQ8_KJoHwjdQClGkBcIcHe8m1G5grD4zoV4_A/pub?start=true&loop=true&delayms=10000
   # tool loop in tool category
-  - name: Hotjar
+  - name: Coal & Petroleum
     image: "/images/tools/Hotjar.jpg"
-    link: https://www.hotjar.com/
+    link: https://docs.google.com/presentation/d/e/2PACX-1vTiClTntKaA1W96g48V3Qh_nnyMWxZlAbn0VlrsqoU5aEZi4MQJtkFcDmM7DzG9dQ/pub?start=true&loop=true&delayms=10000
   # tool loop in tool category
   - name: Ahrefs
     image: "/images/tools/Ahrefs.jpg"
     link: https://ahrefs.com/
   # tool loop in tool category
-  - name: Google Trends
+  - name: Combustion & Flame
     image: "/images/tools/GoogleTrends.jpg"
-    link: https://trends.google.com/trends/
+    link: https://docs.google.com/presentation/d/e/2PACX-1vSMjYhxvRT8no9GoRb8iDOBvp3DsDNNEnxUjeLgmTGsq98Z1y5HlPpPmTPAlUvQGA/pub?start=true&loop=true&delayms=10000
   # tool loop in tool category
-  - name: Google Analytics
+  - name: Conservation of Plants & Animals
     image: "/images/tools/Google-Analytics.jpg"
-    link: https://analytics.google.com/analytics/web
+    link: https://docs.google.com/presentation/d/e/2PACX-1vRg9C2SX-bLfVzrCPYHZp5swMcvG3sWV_wvIqfOAkvWuMncmyl14Ny4gwEp5VaE1Q/pub?start=true&loop=true&delayms=10000
+
