@@ -45,7 +45,7 @@ name = "Resources"
 weight = 1
 
 [[menu.main]]
-URL = "author/john-doe"
+URL = "author/rajan"
 name = "Author"
 weight = 2
 
@@ -62,7 +62,7 @@ name = "Contact"
 weight = 1
 
 [[menu.footer]]
-URL = "author/john-doe"
+URL = "author/rajan"
 name = "Author"
 weight = 2
 
@@ -118,7 +118,7 @@ description = "Learn with our unlimited presentations, concept maps, mindmaps, a
 [params.cta.button]
 enable = true
 label = "Click Here !"
-link = "#"
+link = "tools/"
 
 
 ############################## Social Site ##########################

@@ -1,11 +1,12 @@
 +++
 title = "Welcome to Junior Science Station!"
 image = "/images/post/.jpg"
-author = "Rajan"
+author = "Rajan KM"
 date = 2020-04-30T05:00:00Z
 description = "Junior Science Station is an portal for cbse students to explore the resouces of class 6 to class 8"
-categories = ["Archive"]
+categories = ["Blog"]
 type = "post"
+draft = "true"
 
 +++
 
