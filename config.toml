@@ -85,7 +85,7 @@ description = "Junior Science Station is an portal for Class 6 to Class 8 CBSE s
 # google tag manager
 google_tag_manager = "" # your id
 # google analitycs ID
-google_analitycs_id = "" # your id
+google_analitycs_id = "UA-165927290-1" # your id
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # copyright
