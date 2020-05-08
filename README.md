@@ -1,5 +1,5 @@
 # Junior Science Station : A Static Resource Portal on Hugo
-
+![HomePage](https://github.com/sreeharshrajan/Junior-Science-Station/blob/master/jss.png)
 While the COVID Panedemic has been spreading across the world, e-learning intiatives made an impressive way ahead causing students to learning through digital assets.
 Junior Science Station is more such an effort to make learning more open-source and easy. 
 
