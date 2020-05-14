@@ -1,4 +1,6 @@
 # Junior Science Station : A Static Resource Portal on Hugo
+[![Netlify Status](https://api.netlify.com/api/v1/badges/351cb7a7-f6be-490b-88a2-eb39e6cb89bd/deploy-status)](https://app.netlify.com/sites/juniorsciencestation/deploys)
+
 ![HomePage](https://github.com/sreeharshrajan/Junior-Science-Station/blob/master/jss.png)
 While the COVID Panedemic has been spreading across the world, e-learning intiatives made an impressive way ahead causing students to learning through digital assets.
 Junior Science Station is more such an effort to make learning more open-source and easy. 
