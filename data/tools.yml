@@ -4,70 +4,70 @@ tools:
   tool:
   # tool loop in tool category
   - name: Chapter 1 - Food:Where Does it Come From ?
-    image: "/images/resources/class6/1.jpg"
+    image: "/images/resources/class6/1.webp"
     link: https://drive.google.com/open?id=1Zkx9VRroWs48DuXbafGSZtKB3iNcugpm
   - name: Chapter 2 - Components of Food
-    image: "/images/resources/class6/2.jpg"
+    image: "/images/resources/class6/2.webp"
     link: https://drive.google.com/open?id=1V8sLiWz5rNpcVlro_80hKR2kuqJabB44
  # tool loop in tool category
   - name: Chapter 3 - Fibre to Fabric
-    image: "/images/resources/class6/3.jpg"
+    image: "/images/resources/class6/3.webp"
     link: https://drive.google.com/open?id=1ADDKmyt94-UswbeCXxu1x9eom9VZxv3s
  # tool loop in tool category
   - name: Chapter 4 - Sorting Materials into Groups
-    image: "/images/resources/class6/4.jpg"
+    image: "/images/resources/class6/4.webp"
     link: https://drive.google.com/open?id=1Y_UiDrg1-3nW5D9JbO-zRMNqq18HG3lt
  # tool loop in tool category
   - name: Chapter 5 - Separation of Substances
-    image: "/images/resources/class6/5.jpg"
+    image: "/images/resources/class6/5.webp"
     link: https://drive.google.com/open?id=17PFQ4F-JEPKiy6i7FgTb7exhs7EDLxY1
  # tool loop in tool category
   - name: Chapter 6 - Changes Around Us
-    image: "/images/resources/class6/6.jpg"
+    image: "/images/resources/class6/6.webp"
     link: https://drive.google.com/open?id=1VtkgA985S-NfdT2saYlzo_YJgvGr8e6r
  # tool loop in tool category
   - name: Chapter 7 - Getting to Know Plants
-    image: "/images/resources/class6/7.jpg"
+    image: "/images/resources/class6/7.webp"
     link: https://drive.google.com/open?id=1pBtqgzAoC_MOvfgtVpOurmNBSPYc2sYs
  # tool loop in tool category
   - name: Chapter 8 - Body Movements
-    image: "/images/resources/class6/8.jpg"
+    image: "/images/resources/class6/8.webp"
     link: https://drive.google.com/open?id=1c4ftqkT8o-v1T4ze36pZUneA9Q2YBLPl
  # tool loop in tool category
   - name: Chapter 9 - The Living Organisms and Their Surroundings
-    image: "/images/resources/class6/9.jpg"
+    image: "/images/resources/class6/9.webp"
     link: https://drive.google.com/open?id=1SDYk0KbG27MtwtL9W_c0SnedlAF-CA_O
  # tool loop in tool category
   - name: Chapter 10 - Motion & Measurement of Distances
-    image: "/images/resources/class6/10.jpg"
+    image: "/images/resources/class6/10.webp"
     link: https://drive.google.com/open?id=1st2rgu2158Bv7g-M-YbZ1z8SMzmZU4LS
  # tool loop in tool category
   - name: Chapter 11 - Light, Shadows & Reflection
-    image: "/images/resources/class6/11.jpg"
+    image: "/images/resources/class6/11.webp"
     link: https://drive.google.com/open?id=1PBhwbaZZIz2LD11zpx1DKw75has-EEVG
  # tool loop in tool category
   - name: Chapter 12 - Electricity & Circuits
-    image: "/images/resources/class6/12.jpg"
+    image: "/images/resources/class6/12.webp"
     link: https://drive.google.com/open?id=1kL49yz4MCMdgTLLrBC5WqIU4Yrm4Aox8
  # tool loop in tool category
   - name: Chapter 13 - Fun with Magnets
-    image: "/images/resources/class6/13.jpg"
+    image: "/images/resources/class6/13.webp"
     link: https://drive.google.com/open?id=14p4t17CRQk4rkv-4vvDgV-GPfAfqhl6A
  # tool loop in tool category
   - name: Chapter 14 - Water
-    image: "/images/resources/class6/14.jpg"
+    image: "/images/resources/class6/14.webp"
     link: https://drive.google.com/open?id=1wNOabKLX_OxexDG_PwKiCQ_Y3JAi8cOb
  # tool loop in tool category
   - name: Chapter 15 - Air Around Us
-    image: "/images/resources/class6/15.jpg"
+    image: "/images/resources/class6/15.webp"
     link: https://drive.google.com/open?id=1JZwoayW_HkTJUT6oA0Edaq-b7nN6X4kc
  # tool loop in tool category
   - name: Chapter 16 - Garbage in, Garbage Out
-    image: "/images/resources/class6/16.jpg"
+    image: "/images/resources/class6/16.webp"
     link: https://drive.google.com/open?id=12Zk81vKSzsIr39Oylfs4Sqz7wkszMZSb
  # tool loop in tool category
   - name: Exemplar Answers
-    image: "/images/resources/exemplar.jpg"
+    image: "/images/resources/exemplar.webp"
     link: https://drive.google.com/open?id=1mhoUeKGXkOAOEBZZJZJoqNWAiA5qH0B-
 
 # tool category
@@ -75,79 +75,79 @@ tools:
   tool:
   # tool loop in tool category
   - name: Chapter 1 - Nutrition in Plants
-    image: "/images/resources/class7/1.jpg"
+    image: "/images/resources/class7/1.webp"
     link: https://drive.google.com/open?id=1Zkx9VRroWs48DuXbafGSZtKB3iNcugpm
   # tool loop in tool category
   - name: Chapter 2 - Nutrition in Animals
-    image: "/images/resources/class7/2.jpg"
+    image: "/images/resources/class7/2.webp"
     link: https://drive.google.com/open?id=1r4kkU3F2I9zDLY7fClBncXlPsBTJ3ELt
  # tool loop in tool category
   - name: Chapter 3 - Fibre to Fabric
-    image: "/images/resources/class7/3.jpg"
+    image: "/images/resources/class7/3.webp"
     link: https://drive.google.com/open?id=1Lx_rPz1a9e_YpqB5FmNvLEIigbHBYAQW
  # tool loop in tool category
   - name: Chapter 4 - Heat
-    image: "/images/resources/class7/4.jpg"
+    image: "/images/resources/class7/4.webp"
     link: https://drive.google.com/open?id=1TeCsMr92nVl9eOC5lgZx7PqITB4F_APG
  # tool loop in tool category
   - name: Chapter 5 - Acids,Bases & salts
-    image: "/images/resources/class7/5.jpg"
+    image: "/images/resources/class7/5.webp"
     link: https://drive.google.com/open?id=1bLJFJ4yCLX5TlStk02xkqH_YOdnZufzj
  # tool loop in tool category
   - name: Chapter 6 - Physical & Chemical Changes
-    image: "/images/resources/class7/6.jpg"
+    image: "/images/resources/class7/6.webp"
     link: https://drive.google.com/open?id=1402B99WStViy7nydPGh3abp4-WJCSTu3
  # tool loop in tool category
   - name: Chapter 7 - Weather, Climate & Adaptations of Animals to Climate
-    image: "/images/resources/class7/7.jpg"
+    image: "/images/resources/class7/7.webp"
     link: https://drive.google.com/open?id=1YMz19RXuvSoYEVtl7Tp2wWRvP_-rsHzN
  # tool loop in tool category
   - name: Chapter 8 - Winds, Storms & Cyclones
-    image: "/images/resources/class7/8.jpg"
+    image: "/images/resources/class7/8.webp"
     link: https://drive.google.com/open?id=1I-wcuXGZWwKsh7pk0A0NNDHtXmW1aXev
  # tool loop in tool category
   - name: Chapter 9 - Soil
-    image: "/images/resources/class7/9.jpg"
+    image: "/images/resources/class7/9.webp"
     link: https://drive.google.com/open?id=1Fy0Mk717gn7hrokHXvhf-wuk_74_MRh1
  # tool loop in tool category
   - name: Chapter 10 - Respiration in Organisms
-    image: "/images/resources/class7/10.jpg"
+    image: "/images/resources/class7/10.webp"
     link: https://drive.google.com/open?id=1Jq5JVPOyYBtMuHwssPsWga6FQnzI4hAa
  # tool loop in tool category
   - name: Chapter 11 - Tansportation in Animals & Plants
-    image: "/images/resources/class7/11.jpg"
+    image: "/images/resources/class7/11.webp"
     link: https://drive.google.com/open?id=1Z90EESYdpTkKAVnRS2j4eXsJKFtXx48E
  # tool loop in tool category
   - name: Chapter 12 - Reproduction in Plants
-    image: "/images/resources/class7/12.jpg"
+    image: "/images/resources/class7/12.webp"
     link: https://drive.google.com/open?id=1pufYVeo-OeUYxYBkuC46ziMvVMVdi1b7
  # tool loop in tool category
   - name: Chapter 13 - Motion & Time
-    image: "/images/resources/class7/13.jpg"
+    image: "/images/resources/class7/13.webp"
     link: https://drive.google.com/open?id=1I7Z3GPHM1o2Hgxqlpx33MbP4BfrkaVga
  # tool loop in tool category
   - name: Chapter 14 - Electric Current & Its Effects
-    image: "/images/resources/class7/14.jpg"
+    image: "/images/resources/class7/14.webp"
     link: https://drive.google.com/open?id=1oa0kYZA00yyw4nDb4yrQ7Kbk5XNhq4lK
  # tool loop in tool category
   - name: Chapter 15 - Light
-    image: "/images/resources/class7/15.jpg"
+    image: "/images/resources/class7/15.webp"
     link: https://drive.google.com/open?id=1o4FBWRhtRt_-ObDM1Iv3oXICK-nKfVBs
  # tool loop in tool category
   - name: Chapter 16 - Water:A Precious Resource
-    image: "/images/resources/class7/16.jpg"
+    image: "/images/resources/class7/16.webp"
     link: https://drive.google.com/open?id=1Ws0JsvI0VA847OUlqAFEDz7ol1qkLBae
  # tool loop in tool category
   - name: Chapter 17 - Forests:Our Lifeline
-    image: "/images/resources/class8/17.jpg"
+    image: "/images/resources/class7/17.webp"
     link: https://drive.google.com/open?id=174jopainIzUOKU-Ebd3AjDwnOogFupQg
  # tool loop in tool category
   - name: Chapter 18 - Waste Water Story
-    image: "/images/resources/class8/18.jpg"
+    image: "/images/resources/class7/18.webp"
     link: https://drive.google.com/open?id=1k3iI3heYsW_cTrNKwrNxqeHIgIiB6q7J
  # tool loop in tool category
   - name: Exemplar Answers
-    image: "/images/resources/exemplar.jpg"
+    image: "/images/resources/exemplar.webp"
     link: https://drive.google.com/open?id=1d7_RIgzYERsIVILtk9K9UFRQD-MmMRQD
 
 
@@ -156,76 +156,76 @@ tools:
   tool:
   # tool loop in tool category
   - name: Chapter 1 - Crop Production & Management
-    image: "/images/resources/class8/1.jpg"
+    image: "/images/resources/class8/1.webp"
     link: https://drive.google.com/open?id=19tSkCdYdF7_oFJdpG7WZ0h7abFdRP00P
   - name: Chapter 2 - Microorganism:Friend & Foe
-    image: "/images/resources/class8/2.jpg"
+    image: "/images/resources/class8/2.webp"
     link: https://drive.google.com/open?id=1OiGXmWgMjcCHEvYgmwcEGmlmnidiiQGX
  # tool loop in tool category
   - name: Chapter 3 - Synthetic Fibres and Plastics
-    image: "/images/resources/class8/3.jpg"
+    image: "/images/resources/class8/3.webp"
     link: https://drive.google.com/open?id=1DzdpAiPJvQJPPx-kccRAca8jqtLzc6zc
  # tool loop in tool category
   - name: Chapter 4 - Materials:Metals & Non-Metals
-    image: "/images/resources/class8/4.jpg"
+    image: "/images/resources/class8/4.webp"
     link: https://drive.google.com/open?id=1DORyEJyS-objPHSW_d_rZtnxijRZnDL-
  # tool loop in tool category
   - name: Chapter 5 - Coal & Petroleum
-    image: "/images/resources/class8/5.jpg"
+    image: "/images/resources/class8/5.webp"
     link: https://drive.google.com/open?id=10El7RnFTfurjHKMCWBCc791-1EX8-oaM
  # tool loop in tool category
   - name: Chapter 6 - Combustion & Flame
-    image: "/images/resources/class8/6.jpg"
+    image: "/images/resources/class8/6.webp"
     link: https://drive.google.com/open?id=1NNYO8_ICeut4ZEgINMdSc-A2CIrbdyTS
  # tool loop in tool category
   - name: Chapter 7 - Conservation of Plants & Animals 
-    image: "/images/resources/class8/7.jpg"
+    image: "/images/resources/class8/7.webp"
     link: https://drive.google.com/open?id=1eKimfgwm4XpoLT1WD3O9iyjUZc3NpV5x
  # tool loop in tool category
   - name: Chapter 8 - Cell- Structure & Functions
-    image: "/images/resources/class8/8.jpg"
+    image: "/images/resources/class8/8.webp"
     link: https://drive.google.com/open?id=1n4wUPVevKHx9qJeRNu-KULbKmdMvk6BI
  # tool loop in tool category
   - name: Chapter 9 - Reproduction in Animals
-    image: "/images/resources/class8/9.jpg"
+    image: "/images/resources/class8/9.webp"
     link: https://drive.google.com/open?id=1yY9T3I3WcZHAQodhwvcoqr6xPjAscgDo
  # tool loop in tool category
   - name: Chapter 10 - Reaching the Age of Adolescence
-    image: "/images/resources/class8/10.jpg"
+    image: "/images/resources/class8/10.webp"
     link: https://drive.google.com/open?id=1NWkJE7GwLWJL8JP7hUvt85ZFknNAUGXi
  # tool loop in tool category
   - name: Chapter 11 - Force & Pressure
-    image: "/images/resources/class8/11.jpg"
+    image: "/images/resources/class8/11.webp"
     link: https://drive.google.com/open?id=1JGNhGU2-XMBBGuFUpAeTrYjrW0pBoxFu
  # tool loop in tool category
   - name: Chapter 12 - Friction
-    image: "/images/resources/class8/12.jpg"
+    image: "/images/resources/class8/12.webp"
     link: https://drive.google.com/open?id=15nLUCsChf2OP39zv4lVqrCSLxyyJ_r34
  # tool loop in tool category
   - name: Chapter 13 - Sound
-    image: "/images/resources/class8/13.jpg"
+    image: "/images/resources/class8/13.webp"
     link: https://drive.google.com/open?id=1tcJ8coku8pWfbbpXz5edFrz0DbjQOvZ4
  # tool loop in tool category
   - name: Chapter 14 - Chemical Effects of Electric Current
-    image: "/images/resources/class8/14.jpg"
+    image: "/images/resources/class8/14.webp"
     link: https://drive.google.com/open?id=1pTMj_ctfuG_mYl62ZQhChNhDndAFeR0U
  # tool loop in tool category
   - name: Chapter 15 - Some Natural Phenomena
-    image: "/images/resources/class8/15.jpg"
+    image: "/images/resources/class8/15.webp"
     link: https://drive.google.com/open?id=1jPqLjUfhxAKRPblbdtImUDFEBNPRlP8G
  # tool loop in tool category
   - name: Chapter 16 - Light
-    image: "/images/resources/class8/16.jpg"
+    image: "/images/resources/class8/16.webp"
     link: https://drive.google.com/open?id=15naAf9etXNNFmEsCFLJS2-uj0dIV4BsA
  # tool loop in tool category
   - name: Chapter 17 - Stars & The Solar System
-    image: "/images/resources/class8/17.jpg"
+    image: "/images/resources/class8/17.webp"
     link: https://drive.google.com/open?id=1_9FYTadVh7IU-cvu1JiCS3vpGfr_IxbR
  # tool loop in tool category
   - name: Chapter 18 - Pollution of Air & Water
-    image: "/images/resources/class8/18.jpg"
+    image: "/images/resources/class8/18.webp"
     link: https://drive.google.com/open?id=1Cpm7A2SnGsD_Rv-sd7D7kQVO005zhHeI
  # tool loop in tool category
   - name: Exemplar Answers
-    image: "/images/resources/exemplar.jpg"
+    image: "/images/resources/exemplar.webp"
     link: https://drive.google.com/open?id=1i7KZXVWNaGneEjpUELApke34PjMplOo6
