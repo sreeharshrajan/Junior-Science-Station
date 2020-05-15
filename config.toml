@@ -10,7 +10,7 @@ paginate = "5"
 # post excerpt
 summaryLength = "15"
 # disqus short name
-disqusShortname = "jss-1" # get your shortname form here : https://disqus.com
+disqusShortname = "jss-1" 
 
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
