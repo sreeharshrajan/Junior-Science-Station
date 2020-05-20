@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: juniorsciencestation.com
+Token: f1b06615e2ecba7fb09ee313ef6760e7cfaa6f0da5ca7c1752f60f999d68110b
